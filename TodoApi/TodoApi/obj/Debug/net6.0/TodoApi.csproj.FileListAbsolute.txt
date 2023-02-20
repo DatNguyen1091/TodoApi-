@@ -5,6 +5,17 @@ D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\TodoApi.deps.json
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\TodoApi.runtimeconfig.json
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\TodoApi.dll
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\TodoApi.pdb
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -30,3 +41,5 @@ D:\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\refint\TodoApi.dll
 D:\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\TodoApi.pdb
 D:\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\TodoApi.genruntimeconfig.cache
 D:\TodoApi\TodoApi\TodoApi\obj\Debug\net6.0\ref\TodoApi.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\TodoApi\TodoApi\TodoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
