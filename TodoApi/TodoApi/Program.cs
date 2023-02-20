@@ -1,22 +1,20 @@
-using Microsoft.AspNetCore.Http.Json;
+using System.Text.Json;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Configure JSON options
-builder.Services.Configure<JsonOptions>(options =>
-{
-    options.SerializerOptions.IncludeFields = true;
-});
-
 var app = builder.Build();
 
-app.MapGet("/", () => new Todo { Name = "Walk dog", IsComplete = false });
+var options = new JsonSerializerOptions(JsonSerializerDefaults.Web);
+
+app.MapGet("/", () => Results.Json(new Todo
+{
+    Name = "Walk dog",
+    IsComplete = false
+}, options));
 
 app.Run();
 
 class Todo
 {
-    // These are public fields instead of properties.
-    public string? Name;
-    public bool IsComplete;
+    public string? Name { get; set; }
+    public bool IsComplete { get; set; }
 }
